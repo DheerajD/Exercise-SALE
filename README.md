@@ -1,5 +1,5 @@
-# CakeDefi-JS-Exercise-SALE
-Solution for CakeDefi exersice https://gist.github.com/benzumbrunn/84738476972c85614fe7520cf2274fc6
+# Exercise-SALE
+Solution for exersice https://gist.github.com/DheerajD/c41c374961972f063e56af62260d0ff9
 
 ## Instructions to run the code
 1. Fetch a local copy of the repo.
@@ -8,9 +8,9 @@ Solution for CakeDefi exersice https://gist.github.com/benzumbrunn/84738476972c8
 
 Output:
 ```
-ddoodhya@88665a13fff2 CakeDefi-JS-Exercise-SALE % npm run start
+ddoodhya@88665a13fff2 Exercise-SALE % npm run start
 
-> CakeDefi-JS-Exercise-SALE@1.0.0 start /Users/ddoodhya/Desktop/ddexersice/CakeDefi-JS-Exercise-SALE
+> Exercise-SALE@1.0.0 start /Users/ddoodhya/Desktop/ddexersice/JS-Exercise-SALE
 > tsc && node ./dist/src/index.js < input.txt
 
 5.250
@@ -26,9 +26,9 @@ ddoodhya@88665a13fff2 CakeDefi-JS-Exercise-SALE % npm run start
 
 Output:
 ```
-ddoodhya@88665a13fff2 CakeDefi-JS-Exercise-SALE % npm test     
+ddoodhya@88665a13fff2 Exercise-SALE % npm test     
 
-> CakeDefi-JS-Exercise-SALE@1.0.0 test /Users/ddoodhya/Desktop/ddexersice/CakeDefi-JS-Exercise-SALE
+> JS-Exercise-SALE@1.0.0 test /Users/ddoodhya/Desktop/ddexersice/Exercise-SALE
 > jest ./test/**.ts
 
  PASS  test/cryptoSaleManager.test.ts
